@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(43, 39, 39);
+    font-size: 50px;
+    background-color: rgb(19, 174, 102);
+}
+
+p {
+    font-size: 40px;
+}
+
+
+img {
+    height: 200px;
+    margin-left: 120px;
+}
+
+
+body {
+    background-color:bisque;
+}
+
+.programmer {
+    margin-left: 100px;
+}
+
+.computer {
+    margin-left: 120px;
+}
